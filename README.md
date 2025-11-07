@@ -1,6 +1,22 @@
-## Hi there 👋
+## Bioinformatics Data Scientist @ Heidelberg Epignostix
 
-I am a PhD student in bioinformatics working in single-cell RNAseq projects and passionate about data visualization and generating software solutions for specific bionformatics problems. 
+**PhD in Bioinformatics** | Heidelberg University & DKFZ
+
+> Turning complex genomic data into beautiful, publication-ready visualizations.
+
+---
+
+**Creator of SCpubr** — an R package for high-quality single-cell transcriptomics visualizations
+
+**Specialized in** single-cell multi-omics
+
+**Passionate about** aesthetics, user experience, and reproducible science
+
+---
+
+`R` · `Python` · `Bioinformatics` · `Data Visualization`
+
+📍 Heidelberg, Germany
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=enblacar&count_private=true&show_icons=true" alt="GitHub stats" />
